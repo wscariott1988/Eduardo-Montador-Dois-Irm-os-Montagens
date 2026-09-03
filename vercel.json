@@ -1,6 +1,7 @@
 {
   "framework": null,
   "rewrites": [
-    { "source": "/politica", "destination": "/politica.html" }
+    { "source": "/politica", "destination": "/politica.html" },
+    { "source": "/moveiscorporativos", "destination": "/moveiscorporativos.html" }
   ]
 }
